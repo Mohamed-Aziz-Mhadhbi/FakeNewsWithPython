@@ -1,2 +1,2 @@
-# Fake_news_with_Python
+# Fake news with Python
 This is my fake news detaction repository..
